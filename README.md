@@ -21,7 +21,7 @@
   Web Browser
 
   ## Contributors:
-  ### undefined
+  UofT Bootcamp Starter Code
 
 
   ## Tests
